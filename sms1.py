@@ -10,7 +10,7 @@ def Axak(xak):
 
 	for x in xak:		sys.stdout.write(x)
 
-		sys.stdout.flush()
+		
 
 		
 
